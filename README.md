@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Huck, I am looking for a junior Software Engineering position!
 
 <!--
 **ginestah/ginestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
