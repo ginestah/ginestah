@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Huck, I am looking for a junior Software Engineering position!
+My name is Huck, I am looking for a junior Software Engineering position! <br>
+I would like to work with a company that is Environmentally conscious, and growth oriented.
 
 <!--
 **ginestah/ginestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
