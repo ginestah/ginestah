@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Huck, I am looking for a junior Software Engineering position! <br>
+My name is Huck, I am looking for a Software Engineering position! <br>
 I would like to work with a company that is environmentally conscious, and growth oriented.<br>
 I enjoy working with React, JavaScript, Python and Ruby. But I also look forward to learning more tools, and I am always open to ideas.
 
