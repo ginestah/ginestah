@@ -4,7 +4,7 @@ I would like to work with a company that is environmentally conscious, and growt
 I enjoy working with React, JavaScript, Python and Ruby. But I also look forward to learning more tools, and I am always open to ideas. <br>
 
 - 📫 How to reach me: ginestah@gmail.com .
-- 👯 I’m looking to collaborate on any TypeScript/React projects.
+- 👯 I’m looking to collaborate on any JavaScript/TypeScript/React projects. Also open to Ruby/Rails collab.
 - 🤔 I am willing to help anyone with debugging if they need it, just reach out.
 
 <!--
