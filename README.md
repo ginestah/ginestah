@@ -5,7 +5,7 @@ I enjoy working with React, JavaScript, Python and Ruby. But I also look forward
 
 - 📫 How to reach me: ginestah@gmail.com .
 - 👯 I’m looking to collaborate on any JavaScript/TypeScript/React projects. Also open to Ruby/Rails collab.
-- 🤔 I am willing to help anyone with debugging if they need it, just reach out.
+- 🤔 I am willing to help with debugging if anyone needs it, just reach out.
 
 <!--
 **ginestah/ginestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
