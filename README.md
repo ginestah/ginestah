@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Huck, I am looking for a Software Engineering position! <br>
-I would like to work with a company that is environmentally conscious, and growth oriented.<br>
-I enjoy working with React, JavaScript, Python and Ruby. But I also look forward to learning more tools, and I am always open to ideas. <br>
+My name is Huck, I am always looking to collaborate on open source, if you have any projects you'd like help with please reach out. <br>
+
+
 
 - 📫 How to reach me: ginestah@gmail.com .
 - 👯 I’m looking to collaborate on any JavaScript/TypeScript/React projects. Also open to Ruby/Rails collab.
