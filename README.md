@@ -7,7 +7,7 @@ My name is Huck, I am always looking to collaborate on open source, if you have 
 - 👯 I’m looking to collaborate on any JavaScript/TypeScript/React projects. Also open to Ruby/Rails collab.
 - 🤔 I am willing to help with debugging if anyone needs it, just reach out.
 
-Stats!
+<h2 align='center'>Stats!</h2>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ginestah&layout=compact&hide=CSS'>
 <img src='https://github-readme-stats.vercel.app/api?username=ginestah&hide=stars&theme=blue-green' />
 
