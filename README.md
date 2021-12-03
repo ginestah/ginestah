@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 My name is Huck, I am always looking to collaborate on open source, if you have any projects you'd like help with please reach out. <br>
 
 
