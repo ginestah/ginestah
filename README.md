@@ -6,9 +6,6 @@ My name is Huck, I am always looking to collaborate on open source, if you have 
 - 📫 How to reach me: ginestah@gmail.com .
 - 👯 I’m looking to collaborate on most JavaScript/TypeScript/React projects, email me if you have some ideas you would like to share.
 
-<h2 align='center'>Stats!</h2>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ginestah&layout=compact&hide=CSS'>
-<img src='https://github-readme-stats.vercel.app/api?username=ginestah&hide=stars&theme=blue-green' />
 
 
 <!--
