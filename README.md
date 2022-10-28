@@ -1,10 +1,4 @@
-### Hi there
-My name is Huck, I am always looking to collaborate on open source, if you have any projects you'd like help with please reach out. <br>
-
-
-
-- 📫 How to reach me: ginestah@gmail.com .
-- 👯 I’m looking to collaborate on most JavaScript/TypeScript/React projects, email me if you have some ideas you would like to share.
+worki it
 
 
 
